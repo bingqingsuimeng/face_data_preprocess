@@ -1,0 +1,10 @@
+pip install mxnet-cu100
+pip install sklearn
+pip install Cython
+#cd rcnn/cython
+python setup.py build_ext --inplace
+
+
+
+
+conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
