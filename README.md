@@ -15,3 +15,4 @@ And put into RetinaFace_Detector/model/
 Run 'bash run.sh' to run this repo.
 
 Example
+![](./Picture1.png)
